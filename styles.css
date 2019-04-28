@@ -1,0 +1,39 @@
+
+/*font-family: 'Satisfy', cursive;*/
+
+body{
+  background-color: #3bb4c1;
+}
+h1{
+  color: #e9e4e6;
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Satisfy', cursive;
+}
+
+.radio-container{
+  text-align: center;
+
+}
+.radio-image{
+  color: #e9e4e6;
+  width:600px;
+  height: 450px;
+}
+.control-button{
+  text-align: center;
+  background-color: #3bb4c1;
+  padding-top: 50px;
+}
+.control-image{
+  width:150px;
+  height:150px;
+}
+.footer{
+  text-align: center;
+  color:  #e9e4e6;
+}
+.footer{
+  font-size: 2rem;
+  font-family: 'Satisfy', cursive;
+}
